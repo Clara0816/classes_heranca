@@ -1,6 +1,5 @@
-import Conta from "./Conta.js";
 import Corrente from "./Corrente.js";
-import Poupanca from "./poupanca.js";
+import Poupanca from "./Poupanca.js";
 
 let contaCorrente : Corrente = new Corrente(" Felisberto Felis", 1000, 0.08);
  
